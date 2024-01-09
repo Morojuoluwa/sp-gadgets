@@ -1,3 +1,3 @@
 # Mj-gadgets
 
-Built this Ecommerce website with react, TailwindCss, React-Router and framer motion
+Built this Ecommerce website with react, TailwindCss, Redux and framer motion
